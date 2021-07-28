@@ -320,7 +320,7 @@ textarea {
 
 @media (max-width: 460px) {
     .tm-logo { margin-right: 15px; }
-    .tm-sitename { font-size: 1.8rem; }
+    .tm-sitename { font-size: 1.6rem; }
     .tm-slogon { font-size: 0.8rem; }
 }
 
